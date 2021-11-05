@@ -1,0 +1,13 @@
+# Pycharm IDE
+.idea/
+
+# VSCode files
+.vscode/
+
+# Virtualenv files and directories
+bin/
+lib/
+Scripts/
+Lib/
+pyvenv.cfg
+
