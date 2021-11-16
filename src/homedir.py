@@ -7,7 +7,6 @@ from os import mkdir
 from os.path import isdir, join
 from pathlib import Path
 from shutil import rmtree
-from src.log import get_logger as logger
 
 
 __home_path__ = None
@@ -50,7 +49,7 @@ def clean_temp_dirs() -> bool:
             rmtree(temp_dir)
         return True
     except Exception as ex:
-        logger().error(ex)
+        print(ex)
         return False
 
 
@@ -62,5 +61,5 @@ def delete_temp_dir(dirname: str) -> bool:
             rmtree(temp_dir)
         return True
     except Exception as ex:
-        logger().error(ex)
+        print(ex)
         return False
