@@ -1,0 +1,18 @@
+{
+    "name": "chrome",
+    "version": "1.0.0",
+    "description": "TinyDM extension for chrome web browser",
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": [
+        "Extension",
+        "Chrome",
+        "TinyDM"
+    ],
+    "author": "jhondevcode",
+    "license": "Apache 2.0",
+    "dependencies": {
+        "@types/chrome": "^0.0.164"
+    }
+}
