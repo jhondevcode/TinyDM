@@ -13,3 +13,6 @@ pyvenv.cfg
 
 # dictgen directory
 dictgen/
+
+# Ignore all python bytecodes
+*.pyc
