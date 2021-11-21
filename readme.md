@@ -9,5 +9,5 @@
 `Tiny Download Manager` is a small, fast, and easy-to-use download manager written in Python. It is downloaded from the repository releases and is available for both windows, linux and macOS.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jhondevcode/TinyDM/master/resources/graphics/tinydm_512.svg" alt="Tiny Download Manager"/>
+  <img src="https://raw.githubusercontent.com/jhondevcode/TinyDM/master/resources/graphics/tinydm/tinydm_256.svg" alt="Tiny Download Manager"/>
 </p>
